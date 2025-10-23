@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; background: #f4f6fa; margin: 0; }
+header { background: #4b8bff; color: white; padding: 15px; text-align: center; }
+nav { background: #fff; display: flex; justify-content: center; gap: 20px; padding: 10px; }
+nav a { color: #4b8bff; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+.hero { text-align: center; margin-top: 50px; }
+.btn { background: #4b8bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+.container { text-align: center; margin-top: 50px; }
+button { background: #4b8bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+button:hover { background: #3673d0; }
+footer { text-align: center; margin-top: 50px; padding: 20px; background: #4b8bff; color: white; }
