@@ -1,3 +1,6 @@
+# TEAM Name -  TeamYUVA
+
+
 # 🐾 Hapivet AI
 
 ## 🧠 Project Overview
@@ -59,7 +62,12 @@ else:
     status = "Normal"
 
 ```
-**Customer Appointment Booking Form**
+- Pet health data is collected.
+- If a danger condition is detected → alert is sent to the owner.
+- Owner books a consultation.
+- Doctor accepts → connects for virtual call.
+  
+**3️⃣Customer Appointment Booking Form**
 
 **📘 Idea:**
 - A simple and intuitive form that allows customers to schedule appointments with veterinarians.
@@ -90,3 +98,11 @@ Java Script for validation and confirmation message
 
 **✨ Expected Output:**
 Quick and user-friendly appointment booking interface.
+
+**Expected Outcome :**
+- AI-based disease prediction using pet health data.
+- Mobile notifications for alerts and appointments.
+- Integration with cloud storage for medical records.
+- Real wearable IoT integration with ESP32 boards.
+- Real wearable IoT integration with ESP32 boards.
+
