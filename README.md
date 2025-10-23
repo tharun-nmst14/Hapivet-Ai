@@ -50,9 +50,43 @@ A wearable device continuously monitors a pet’s vital signs such as:
 - If abnormal readings are detected, the system sends an **alert message** to the pet owner on the website dashboard.
 
 **💡 Example Logic:**
+
 ```python
 if temperature > 39 or heart_rate > 120:
     status = "Danger"
     send_alert_to_owner()
 else:
     status = "Normal"
+
+```
+**Customer Appointment Booking Form**
+
+**📘 Idea:**
+- A simple and intuitive form that allows customers to schedule appointments with veterinarians.
+
+**🧠 Approach:**
+
+Form includes:
+
+- Pet Owner Name
+
+- Pet Name
+
+- Contact Info
+
+Type of Consultation (Online / In-Person)
+
+- Preferred Date & Time
+
+- Description of Issue
+
+After submission, data is sent to the backend (or simulated) and a confirmation message appears.
+
+**🧰 Tech:**
+
+HTML Form + CSS styling
+
+Java Script for validation and confirmation message
+
+**✨ Expected Output:**
+Quick and user-friendly appointment booking interface.
