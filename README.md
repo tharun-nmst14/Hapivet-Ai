@@ -104,6 +104,9 @@ Quick and user-friendly appointment booking interface.
 **Expected Outcome :**
 - AI-based disease prediction using pet health data.
 - Mobile notifications for alerts and appointments.
+--- 
+###For Demo:
+**Link:**https://hapivet-ai.onrender.com
 - Integration with cloud storage for medical records.
 - Real wearable IoT integration with ESP32 boards.
 - Real wearable IoT integration with ESP32 boards.
