@@ -66,8 +66,10 @@ else:
 - If a danger condition is detected → alert is sent to the owner.
 - Owner books a consultation.
 - Doctor accepts → connects for virtual call.
-  
-**3️⃣Customer Appointment Booking Form**
+
+--- 
+
+###3️⃣Customer Appointment Booking Form
 
 **📘 Idea:**
 - A simple and intuitive form that allows customers to schedule appointments with veterinarians.
